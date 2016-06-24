@@ -1,3 +1,9 @@
-	name: Jason Smith
-	markdown: kramdown
+defaults:
+
+        scope:
+                path: "" # all files in project
+                type: "posts"
+        values:
+                name: Jason Smith
+                markdown: kramdown
 
