@@ -6,7 +6,7 @@ defaults:
         values:
                 name: Jason Smith
                 markdown: kramdown
-                jason: <span class="sc">Jason Smith</span>
+                jason: "<span class=\"sc\">Jason Smith</span>"
 
         scope:
                 path: ""
