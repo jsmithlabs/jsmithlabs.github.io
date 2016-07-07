@@ -6,6 +6,11 @@ defaults:
         values:
                 name: Jason Smith
                 markdown: kramdown
+
+        scope:
+                path: ""
+                type: "pages"
+        values:
                 jason: "<span class=\"sc\">Jason Smith</span>"
 
         scope:
