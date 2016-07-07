@@ -6,6 +6,9 @@ defaults:
         values:
                 name: Jason Smith
                 markdown: kramdown
+                author:      "Dr. Jekyll"
+                jason_plain: "Mr. Jason Smith"
+                jason:       "<span class=\"sc\">Mr. Jason Smith</span>"
 
         scope:
                 path: ""
@@ -24,3 +27,5 @@ defaults:
 gems:
         - jekyll-feed
 
+jason_plain: "Juan Valdez"
+jason:       "<span class=\"sc\">Juan Valdez</span>"
