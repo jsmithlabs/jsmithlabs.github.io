@@ -11,7 +11,9 @@ defaults:
                 path: ""
                 type: "pages"
         values:
-                jason: "<span class=\"sc\">Jason Smith</span>"
+                author:      "Mr. Hyde"
+                jason_plain: "Jason Smith"
+                jason:       "<span class=\"sc\">Jason Smith</span>"
 
         scope:
                 path: ""
